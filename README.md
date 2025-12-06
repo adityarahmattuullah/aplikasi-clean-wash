@@ -27,7 +27,7 @@ Peran Admin memiliki akses penuh ke fitur sensitif dan master data.
 🔑 Pengaturan Akun Admin & Karyawan
 Aplikasi tidak memiliki akun bawaan. Anda harus mendaftar akun Karyawan terlebih dahulu, kemudian meningkatkan perannya menjadi Admin melalui Firebase Console.
 
-akun admin dan karyawan
+akun admin dan karyawan : 
 Admin	    : admin@gmail.com	       pw : admin1	
 Karyawan	: karyawan@gmail.com	   pw : karyawan	
 
